@@ -10,7 +10,7 @@
   <img src="Py-Plots/Cumulative_Ba_Time_Series.png" alt="cumulative" width="600">
 </p>
 
-- This work applies empirical–statistical downscaling (ESD) using a customized pyESD framework. It combines glacier mass-balance observations with ERA5 and CMIP6 predictors through regional and teleconnection indices (e.g.,   NAO, EA, SCAN), advanced predictor selection (recursive, tree-based, sequential), and multiple machine-learning regressors (Ridge, ARD, RandomForest, MLP). Models were trained, cross-validated, and ensembled Stacking/Voting) to simulate historical variability and project future Ba/Bw/Bs anomalies under SSP1-2.6, SSP2-4.5, and SSP5-8.5.
+- This work applies empirical–statistical downscaling (ESD) using a customized pyESD framework. It combines glacier mass-balance observations with ERA5 and CMIP6 predictors through regional and teleconnection indices (e.g.,   NAO, EA, SCAN), advanced predictor selection (recursive, tree-based, sequential), and multiple machine-learning regressors (e.g. Ridge, ARD, RandomForest). Models were trained, cross-validated, and ensembled Stacking/Voting) to simulate historical variability and project future Ba/Bw/Bs anomalies under SSP1-2.6, SSP2-4.5, and SSP5-8.5.
 
 <p align="center">
   <img src="Py-Plots/modelling_routine_schematic.png" alt="schematic" width="600">
