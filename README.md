@@ -38,6 +38,7 @@ The thesis investigates the hypothesized **regime shift in the climatic controls
 - Post-2000 mass loss is the most negative on record, linked to rising Tabl and a weaker/negative NAO. 
 - Rising post-2000 correlations of Bs with Pabl, Tabl, and SSRD, plus stronger Ba–Tabl correlation across all 11 glaciers, point to a shift toward an energy (ablation)-dominated regime.
 - Maritime–continental gradient persists in observed correlation results.
+  
 **Model performance**
 - Prediction skill ranks **Bw > Ba > Bs**: Bw (mean R²≈0.45, RMSE≈0.59 m w.e.), Ba (mean R²≈0.55, RMSE≈0.64 m w.e.), Bs (mean R²≈0.28, RMSE≈0.90 m w.e.).
 - Linear regressors (Ridge, Bayesian Ridge, ARD) consistently outperform non-linear ones (Bagging, RF, XGBoost).
