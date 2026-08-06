@@ -1,0 +1,12 @@
+Variable,Glacier,Regressor,Selector,Predictors,R2,RMSE,MAE
+Ba,Alfotbreen,Voting,Recursive (Via ARD),"['t2m', 'tp', 'u10', 'NAO', 'EA']",0.15905744673616828,1.121118985380756,0.9168367041000244
+Ba,Austdalsbreen,Voting,Recursive (Via ARD),"['t2m', 'tp', 'v10', 'u10', 'NAO']",0.5729048207634537,0.6448133646565998,0.5386433811498819
+Ba,Engabreen,Voting,Recursive (Via ARD),"['t2m', 'tp', 'v10', 'u10', 'ssrd', 'NAO', 'EA']",0.2811380925130781,0.8848265337060391,0.7138751491415372
+Ba,Grafjellsbrea,Voting,Recursive (Via ARD),"['t2m', 'tp', 'v10', 'NAO', 'EA']",0.5141177935504126,0.9939674460614188,0.8575404331398309
+Ba,Grasubreen,Voting,Recursive (Via ARD),"['tp', 'v10', 'u10', 'ssrd', 'NAO', 'EA']",-0.8049273479451309,0.8638639937208737,0.7370078074995274
+Ba,Hansebreen,Voting,Recursive (Via ARD),"['t2m', 'tp', 'v10', 'u10', 'ssrd', 'NAO', 'EA']",-0.07913604160465226,1.3301051993013078,1.1586851341612037
+Ba,Hellstugubreen,Voting,Recursive (Via ARD),"['t2m', 'tp', 'v10', 'u10', 'ssrd', 'NAO', 'EA']",-0.4111534543199016,0.8649795613826406,0.6995625622623104
+Ba,Langfjordjokelen,Voting,Recursive (Via ARD),"['t2m', 'tp', 'v10', 'u10', 'ssrd', 'NAO', 'EA']",-0.06964371029370908,0.863056460193997,0.7607701535047878
+Ba,Nigardsbreen,Voting,Recursive (Via ARD),"['tp', 'v10', 'u10', 'NAO', 'EA']",0.4488665839744802,0.6507817933982596,0.5077500254268134
+Ba,Rembesdalskaka,Voting,Recursive (Via ARD),"['tp', 'v10', 'u10', 'ssrd', 'NAO', 'EA']",0.41616090105464343,0.7324775763515504,0.6501105944105317
+Ba,Storbreen,Voting,Recursive (Via ARD),"['t2m', 'tp', 'v10', 'u10', 'ssrd', 'NAO', 'EA']",-0.2977116344094688,0.8383876140101508,0.7171236423209465
