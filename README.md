@@ -9,11 +9,11 @@
 The thesis investigates the hypothesized **regime shift in the climatic controls on Norwegian glaciers around the year 2000**, analyzing 11 glaciers spanning 57–72°N across Norway's maritime-to-continental gradient (Ålfotbreen, Austdalsbreen, Engabreen, Gråsubreen, Grafjellsbrea, Hansebreen, Hellstugubreen, Langfjordjøkelen, Nigardsbreen, Rembesdalskåka, Storbreen).
 
 <p align="center">
-  <img src="Py-Plots/fig01.png" alt="cumulative" width="600">
+  <img src="Py_Plots/fig01.png" alt="cumulative" width="600">
 </p>
 
 <p align="center">
-  <img src="Py-Plots/fig03.png" alt="cumulative" width="600">
+  <img src="Py_Plots/fig03.png" alt="cumulative" width="600">
 </p>
 
 ## Methodology
@@ -28,7 +28,7 @@ The thesis investigates the hypothesized **regime shift in the climatic controls
 - Glacier dynamics, climate–glacier feedbacks, and evolving hypsometry are not represented; projections should be interpreted with this caveat.
 
 <p align="center">
-  <img src="Py-Plots/fig02.png" alt="schematic" width="600">
+  <img src="Py_Plots/fig02.png" alt="schematic" width="600">
 </p>
 
 ## Key Findings
